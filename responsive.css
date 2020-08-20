@@ -1,4 +1,4 @@
-@media screen and (max-width:900px) {
+@media screen and (max-width:300px) {
   h1 {
   color:blue;
   background-color:red;
@@ -6,6 +6,6 @@
   
  h2 {
   font-size:100px;
-  color:yellow;
+  
 }
 }
