@@ -1,5 +1,11 @@
-@media screen and (max-width:1500px) {
+@media screen and (max-width:1000px) {
   h1 {
   color:blue;
+  background-color:red;
  }
+  
+ h2 {
+  font-size:100px;
+  color:yellow;
+}
 }
