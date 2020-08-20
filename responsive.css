@@ -1,4 +1,4 @@
-@media screen and (mqx-width:1500px) {
+@media screen and (max-width:1500px) {
   h1 {
   color:blue;
  }
