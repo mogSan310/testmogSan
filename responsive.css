@@ -1,11 +1,11 @@
 @media screen and (max-width:560px) {
   h1 {
-  color::red;
-  background-color:blue;
+  color::white;
+  background-color:purple;
  }
   
  h2 {
-  font-size:400px;
+  font-size:900px;
   
 }
 }
