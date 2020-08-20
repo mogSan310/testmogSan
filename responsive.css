@@ -1,7 +1,7 @@
-@media screen and (max-width:500px) {
+@media screen and (max-width:100px) {
   h1 {
   color::red;
-  background-color:#800080;
+  background-color:blue;
  }
   
  h2 {
